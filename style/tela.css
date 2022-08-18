@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+/*ESTILO PARA TELAS*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+}
+
+header {
+    background-color: rgb(158, 158, 158);
+}
+
+header > h1 {
+    text-align: center;
+  
+    
+}
+
+menu ul {
+    list-style-type: none;
+    background-color: gray;
+    text-align: center;
+  
+}
+
+menu li {
+    background-color: rgb(75, 75, 75);
+    display: inline-block;
+    color:white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px ;
+   
+}
+
+article > h2 {
+     margin: 20px;
+     text-align: center;
+}
+
+article >p {
+   margin: 10px;
+   text-align: center;
+
+}
+article {
+    width: 600px;
+    display: block;
+    margin:auto
+}
+
