@@ -41,7 +41,7 @@ vai imprimir ele aparece perfeitamente.
  Isso é muito interessante, pois conseguimos configurar a parte da IMPRESSORA diferente 
 da parte da TELA.   
 
-## Visualizaçãpo no Git Pages: 
+## Visualização no Git Pages: 
 
 - [Link](https://mizarocha.github.io/Media-query/)                      
  No browser vai abrir a versão tela e pera vê a  versão de impressora só da o seguinte comando "CTRL + P".     
