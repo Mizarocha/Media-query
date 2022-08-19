@@ -33,8 +33,8 @@ nele foi utilizado a tecnologia de media queries:
 
 ## Funcionalidade:
 
-Peceba que a parte de tela esta completa com todas as informações, quando mandamos imprimir, a configuração 
-muda, o Menu já não aparece mais, temos uma confiraguração de "menu" no CSS { display: nome; é só para impressora }
+Perceba que a parte de tela esta completa com todas as informações, quando mandamos imprimir, a configuração 
+muda, o Menu já não aparece mais, temos uma configuração de "menu" no CSS { display: nome; é só para impressora }
 Acontece a mesma coisa na parte do article::ofter, ele não aparece na tela, mas na hora que
 vai imprimir ele aparece perfeitamente.          
 
